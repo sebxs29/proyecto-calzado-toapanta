@@ -1,0 +1,21 @@
+# Temporales
+*.tmp
+*.log
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Variables privadas
+.env
+
+# MySQL Workbench temporales
+*.bak
+
